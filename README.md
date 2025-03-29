@@ -25,6 +25,7 @@ This is a machine learning project focused on data analysis and prediction. The 
   - `numpy` for numerical computations
 
 ## Project Structure
+- `00_data_preprocessing.py`- Standardizes raw data and converts catagorical variables into encoded format.
 - `01_Data_Analysis.ipynb` - Loads and Performs data exploration, visualizations, and statistical analysis.
 - `02_Feature_Engineering.ipynb` - Prepares features for model training.
 - `03_Model_Training.ipynb` - Implements machine learning models for predictions and Evaluates model performance using metrics.
@@ -56,6 +57,7 @@ To run this project, follow these steps:
    Then, open and run the notebooks sequentially.
 
 ## Execution Instructions
+-Can start directly working with the preprocessed data.
 1. Open Jupyter Notebook.
 2. Start with `01_Data_analysis.ipynb` and execute each cell.
 3. Proceed to the next notebook in sequence.
@@ -63,8 +65,13 @@ To run this project, follow these steps:
 
 ## Results & Insights
 - **Data Visualization**: Histograms, scatter plots, and box plots to analyze feature distributions.
+  
 - **Correlation Analysis**: Identifies relationships between numerical variables.
-- **Machine Learning Models**: Implemented and evaluated using performance metrics.
+  
+- **Machine Learning Models**: Implemented and evaluated using performance metrics:
+    -1. Simple Linear Regression: *95.34% Accuracy*
+    -2. Multiple Linear Regression: *99.21% Accuracy*
+    -3. Random Forest Regression: *99.50% Accuracy*
 
 ## Contributing
 Contributions are welcome! If you'd like to improve the project, please fork the repository, make your changes, and submit a pull request.
