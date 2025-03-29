@@ -69,9 +69,9 @@ To run this project, follow these steps:
 - **Correlation Analysis**: Identifies relationships between numerical variables.
   
 - **Machine Learning Models**: Implemented and evaluated using performance metrics:
-    -1. Simple Linear Regression: *95.34% Accuracy*
-    -2. Multiple Linear Regression: *99.21% Accuracy*
-    -3. Random Forest Regression: *99.50% Accuracy*
+  - `-1. Simple Linear Regression: *95.34% Accuracy*`
+  - `-2. Multiple Linear Regression: *99.21% Accuracy*`
+  - `-3. Random Forest Regression: *99.50% Accuracy*`
 
 ## Contributing
 Contributions are welcome! If you'd like to improve the project, please fork the repository, make your changes, and submit a pull request.
