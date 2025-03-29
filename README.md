@@ -70,9 +70,9 @@ To run this project, follow these steps:
   
 - **Machine Learning Models**:
   - Implemented variety of Machine Learning models from SCIKIT-Learn:
-    - `-1. Simple Linear Regression: *95.34% Accuracy*`
-    - `-2. Multiple Linear Regression: *99.21% Accuracy*`
-    - `-3. Random Forest Regression: *99.50% Accuracy*`
+    - `-1. Simple Linear Regression`
+    - `-2. Multiple Linear Regression`
+    - `-3. Random Forest Regression`
 
   - Model Evaluatio Metrics:
    - `Mean Squared Error`
